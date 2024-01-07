@@ -23,6 +23,9 @@ ddev debug download-images
 # avoid errors on rebuilds
 ddev poweroff
 
+# show ddev version
+ddev -v
+
 # start ddev project automatically
 # ddev start -y
 
