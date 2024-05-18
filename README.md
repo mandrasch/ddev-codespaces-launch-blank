@@ -1,4 +1,6 @@
-# launch-codespaces-with-ddev
+# ddev-codespaces-launch-blank
+
+DDEV is an open source tool for Docker-based PHP development environments.
 
 Launch a fresh blank Codespaces instance with DDEV installed, but no project configured yet
 
